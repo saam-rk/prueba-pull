@@ -1,1 +1,2 @@
 Línea inicial en el archivo
+Línea añadida por otro colaborador
